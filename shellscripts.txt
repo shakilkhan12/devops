@@ -1,0 +1,2 @@
+() - curl api url
+   - curl error log file link | grep ERROR
