@@ -1,2 +1,4 @@
 () - curl api url
    - curl error log file link | grep ERROR
+() - wget api url -> wget will download the api response
+() - find / -name filename or folder name -> find slash means everything
