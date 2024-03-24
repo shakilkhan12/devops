@@ -11,3 +11,8 @@ then
 else 
    echo "b is greater than a"
 fi 
+#######
+for loop
+#######
+for i in {1.100}; do echo $i; done
+() trap "echo dont use the ctrl+c" SIGINT
