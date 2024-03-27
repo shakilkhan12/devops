@@ -1,0 +1,5 @@
+export username="username"
+export token="yourtoken"
+
+// How to run shell script for a github repo
+./shell_script.sh reponame

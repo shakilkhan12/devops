@@ -1,0 +1,4 @@
+ls -la -> this commond will show the git repo with all hidden files
+git diff -> show difference between changes
+git log -> show all commits history
+git reset --hard yourcommitid -> go back to a specific commit
